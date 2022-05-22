@@ -1,13 +1,3 @@
-/*
- * FibRecursive is a method that take the place of a term in the Fibonacci sequence and returns the term.
- * 
- * @author Arion Adiram
- * 
- * @param n the place of the term
- * 
- * @return	the term of at the place
- */
-
 import java.util.*;
 
 public class Assignment2 {
